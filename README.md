@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br clear="both">
-<img src="https://raw.githubusercontent.com/mu-irshad011/mu-irshad011/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/parthvv2005/parthvv2005/output/snake.svg" alt="Snake animation" />
 <br clear="both">
