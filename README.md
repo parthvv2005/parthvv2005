@@ -29,9 +29,9 @@ I am a **Computer Science Student** with a passion for **Graphic Design**, **Gam
 - **Graphic Design** tools (Illustrator, Photoshop).
 
 ## 🌍 Find me on:
-- [Instagram](https://www.instagram.com/yourusername)
-- [Discord](https://discord.com/users/yourusername)
-- [Behance](https://www.behance.net/yourusername)
+- [Instagram](https://www.instagram.com/mindlessly.me)
+- [Discord](https://discord.com/users/parthvv2005)
+- [Behance](https://www.behance.net/parthvv2005)
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Personal Website](https://www.yourwebsite.com)
 
