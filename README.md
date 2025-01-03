@@ -29,15 +29,15 @@ I am a **Computer Science Student** with a passion for **Graphic Design**, **Gam
 - **Graphic Design** tools (Illustrator, Photoshop).
 
 ## 🌍 Find me on:
-- [Instagram](https://www.instagram.com/mindlessly.me)
-- [Discord](https://discord.com/users/parthvv2005)
+- [Instagram](https://www.instagram.com/mindlessly.me_)
+- [Discord](https://discord.com/users/715183018880532550)
 - [Behance](https://www.behance.net/parthvv2005)
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Personal Website](https://www.yourwebsite.com)
 
 ## 📫 How to reach me:
 - Email: [your.email@example.com](parthvv2005@example.com)
-- LinkedIn: [yourLinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/parth-vamleshvariya-544aab269/))
+- LinkedIn: [yourLinkedIn]((https://www.linkedin.com/in/parth-vamleshvariya-544aab269/))
 
 ## ⚡ Fun fact:
 I love combining **coding** and **design** to create visually engaging and functional projects that stand out! 🚀
