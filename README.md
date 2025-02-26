@@ -21,7 +21,6 @@ I am a **Computer Science Student** with a passion for **Graphic Design**, **Gam
 ## 🔭 Currently working on:
 - 📱 Android App Development using **Java** and **Kotlin**.
 - 💻 Designing engaging social media visuals.
-- 🎮 Exploring new games and technologies.
 
 ## 🌱 I’m currently learning:
 - **Advanced Algorithms** in Computer Science.
@@ -43,7 +42,5 @@ I am a **Computer Science Student** with a passion for **Graphic Design**, **Gam
 I love combining **coding** and **design** to create visually engaging and functional projects that stand out! 🚀
 
 ---
-
-![Snake Animation](https://raw.githubusercontent.com/parthvv2005/parthvv2005/output/snake.svg)
 
 
