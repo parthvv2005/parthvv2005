@@ -32,10 +32,10 @@ I am a **Computer Science Student** with a passion for **Graphic Design**, **Gam
 - [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/715183018880532550)
 - [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?&style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/parthvv2005)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parth-vamleshvariya-544aab269/)
-- [![Website](https://img.shields.io/badge/Website-0077B5.svg?&style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://www.yourwebsite.com)
+<!-- - [![Website](https://img.shields.io/badge/Website-0077B5.svg?&style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://www.yourwebsite.com) -->
 
 ## 📫 How to reach me:
-- 📧 Email: [parthvv2005@example.com](mailto:parthvv2005@example.com)
+- 📧 Email: [parthvv2005@example.com](mailto:parthvv2005@gmail.com)
 - 💼 LinkedIn: [parth-vamleshvariya](https://www.linkedin.com/in/parth-vamleshvariya-544aab269/)
 
 ## ⚡ Fun fact:
