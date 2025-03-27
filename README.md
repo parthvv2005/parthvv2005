@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there! I'm **Part Vamleshvariya** 👨‍💻
 
-I am a **Computer Science Student** with a passion for **Graphic Design**, **Gaming**, and **Reading** 📚. I also enjoy browsing about **crimes happening around the world**. I love learning new skills and working on projects that combine my knowledge of programming and design! 🌱
+I am a **Computer Science Student** with a passion for **Graphic Design**, **Gaming**, and **Reading** 📚. I love learning new skills and working on projects that combine my knowledge of programming and design! 🌱
 
 ## 🔭 Currently working on:
-- 📱 Android App Development using **Java** and **Kotlin**.
+ <!-- 📱 Android App Development using **Java** and **Kotlin**. -->
 - 💻 Designing engaging social media visuals.
 
 ## 🌱 I’m currently learning:
